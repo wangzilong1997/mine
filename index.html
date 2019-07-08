@@ -37,29 +37,21 @@
 		html2canvas(document.body, {
 			onrendered:function(canvas) {
 				var contentWidth = canvas.width;
+				console.log(contentWidth);
 				var contentHeight = canvas.height;
+				console.log(contentHeight);
 				var pageHeight = contentWidth;
+				console.log(pageHeight);
 				var leftHeight = contentHeight;
+				console.log(leftHeight)
 				var position = 0;
 				var imgWidth = 555.28;
 				var imgHeight = 555.28 / contentWidth * contentHeight;
-				var pageData = canvas.toDataURL('image/jpeg',1.0);
 				var pdf = new jsPDF('','pt','a4');
-				if (leftHeight < pageHeight) {
-					pdf.addImage(pageData,'JPEG',20,0,541,imgHeight)
-				} else {
-					while(leftHeight > 0) {
-						pdf.addImage(pageData,'JPEG',20,position,541,imgHeight)
-						leftHeight -= pageHeight;
-						position -= 841.89;
-						if(leftHeight > 0) {
-							pdf.addPage();
-						}
-					}
-				}
-				
-				pdf.save('王子龙简简简历.pdf')
-			}
+				var pageData = canvas.toDataURL('image/jpeg',1.0);
+				pdf.addImage(pageData,'JPEG',20,0,540,imgHeight);
+				pdf.save('王子龙简简简历.pdf');
+			
 		})
 	}
 	}
