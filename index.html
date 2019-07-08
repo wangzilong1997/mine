@@ -38,7 +38,7 @@
 			onrendered:function(canvas) {
 				var contentWidth = canvas.width;
 				var contentHeight = canvas.height;
-				var pageHeight = contentWidth / 595.28 * 841.89;
+				var pageHeight = contentWidth;
 				var leftHeight = contentHeight;
 				var position = 0;
 				var imgWidth = 555.28;
@@ -46,10 +46,10 @@
 				var pageData = canvas.toDataURL('image/jpeg',1.0);
 				var pdf = new jsPDF('','pt','a4');
 				if (leftHeight < pageHeight) {
-					pdf.addImage(pageData,'JPEG',20,0,imgWidth,imgHeight)
+					pdf.addImage(pageData,'JPEG',20,0,541,imgHeight)
 				} else {
 					while(leftHeight > 0) {
-						pdf.addImage(pageData,'JPEG',20,position,imgWidth,imgHeight)
+						pdf.addImage(pageData,'JPEG',20,position,541,imgHeight)
 						leftHeight -= pageHeight;
 						position -= 841.89;
 						if(leftHeight > 0) {
