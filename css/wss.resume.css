@@ -55,3 +55,7 @@
 .wss-resume-title {
 	font-weight: bold;
 }
+#renderPdf {
+	margin: 1px 40px;
+	padding: 1px 12px;
+}
