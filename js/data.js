@@ -63,7 +63,7 @@ wss.data = {
           'date'  : '能够使用vue开发',                                                   
           'event' : 'Vue刚学的。。。。',
           'href'  : 'https://github.com/wangzilong1997/vue'
-        }，
+        },
 	{
 	  'class' : 'r',
 	  'date'  : '能够使用进行简单开发(依次忘得多)',
