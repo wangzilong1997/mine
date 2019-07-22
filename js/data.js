@@ -57,7 +57,8 @@ wss.data = {
 	  'date'  : 'Grunt可以实现单元测试自动构建等，Webpack简单打包。。',
 	  'event' : 'Grunt、Webpack自动构建打包工具、Git',
 	  'href'  : '//github.com/wangzilong1997/spa'
-	},{
+	},
+	{
           'class' : 'r',
           'date'  : '能够使用vue开发',                                                   
           'event' : 'Vue刚学的。。。。',
@@ -105,42 +106,41 @@ wss.data = {
 	  'event' : 'jQuery、Boostrap基本掌握',
 	  'href'  : ''
 	},
-    {
+        {
 	  'class' : 'l',
 	  'date'  : '掌握',
 	  'event' : 'HTML、CSS、Javascript基本技术',
 	  'href'  : ''
 	},
 	{
-      'class' : 'r',
-      'date'  : '2016年9月1日',
-      'event' : '河北师范大学入学',
-      'href'  : ''
-    },
-    {
-      'class' : 'r',
-      'date'  : '2013年9月1日',
-      'event' : '卢龙县中学入学',
-      'href'  : ''
-    },
-    {
-      'class' : 'r',
-      'date'  : '2010年9月1日',
-      'event' : '石门中学入学',
-      'href'  : ''
-    },
-    {
-      'class' : 'r',
-      'date'  : '2004年9月1日',
-      'event' : '石门小学入学',
-      'href'  : ''
-    },
-	{
-		'class' : 'r',
-		'date'  : '1997年7月21日',
-		'event' : '出生',
-		'href'  : ''
-		
+          'class' : 'r',
+          'date'  : '2016年9月1日',
+          'event' : '河北师范大学入学',
+          'href'  : ''
+       },
+       {
+          'class' : 'r',
+          'date'  : '2013年9月1日',
+          'event' : '卢龙县中学入学',
+          'href'  : ''
+       },
+       {
+          'class' : 'r',
+          'date'  : '2010年9月1日',
+          'event' : '石门中学入学',
+          'href'  : ''
+       },
+       {
+          'class' : 'r',
+          'date'  : '2004年9月1日',
+          'event' : '石门小学入学',
+          'href'  : ''
+       },
+       {
+	  'class' : 'r',
+	  'date'  : '1997年7月21日',
+	  'event' : '出生',
+	  'href'  : ''
 	}
 	]
 };
