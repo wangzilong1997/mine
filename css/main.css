@@ -1,0 +1,19 @@
+/**
+ * @author wangzilong
+ * @date 2019/11/30 17:52
+ */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+
+.header {
+    height: 1000px;
+    width: 100%;
+    position: relative;
+}
+.banner {
+    margin: 0 auto;
+    text-align: center;
+}

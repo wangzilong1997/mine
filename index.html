@@ -1,0 +1,37 @@
+<!--
+      @author wangzilong
+      @date 2019/11/30 11:39
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+           content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>王子龙前端简历</title>
+    <!--css样式表-->
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <!--引入angular-->
+    <script src="./lib/angular.js"></script>
+    <!--<script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.js"></script>-->
+    <script src="./js/app.js"></script>
+</head>
+<body ng-app="resume">
+    <div class="header" ng-controller="headerCtrl">
+        <div class="banner">
+            banner{{name}}
+        </div>
+    </div>
+    <div class="main">
+        我是中间部分
+    </div>
+    <div class="footer">
+        我是尾巴
+    </div>
+    <div class="text">
+
+    </div>
+</body>
+</html>
