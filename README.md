@@ -13,7 +13,7 @@
 
 * 男/1997
 * 本科/河北师范大学
-* 工作年限：实习数月
+* 工作年限：实习
 * Github：https://github.com/wangzilong1997
 * 期望职位：Web前端
 
@@ -56,12 +56,11 @@ Handlebars作页面模板引擎，用Python语言编写数据自劢化处理脚�
 
 以下均为我熟练使用的技能
 * 掌握CSS
-* 掌握HTML，JS   基本
+* 掌握HTML，JS   
 * Web开发：Python/Node
-* 前端框架：Bootstrap/AngularJS
+* 前端框架：AngularJS/React
 * 数据库相关：MySQL/Oracle/PLSQL
 * 版本管理、文档和自动化部署工具：Git/Grunt/Webpack
-* 相关软件：Photoshop/premiere
 * 云和开放平台：微信应用开发
 * 其他   
     + Untiy:  [做过简单的 2d demo，cocosjs也是](https://github.com/wangzilong1997/C--for-unity)
