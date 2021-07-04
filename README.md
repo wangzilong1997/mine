@@ -13,7 +13,7 @@
 
 * 男/1997
 * 本科/河北师范大学
-* 工作年限：实习5个月
+* 工作年限：实习数月
 * Github：https://github.com/wangzilong1997
 * 期望职位：Web前端
 
