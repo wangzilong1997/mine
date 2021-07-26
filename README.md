@@ -25,7 +25,7 @@
 
 同城驾考开发项目：针对C1驾考运用angular + ionic 实现前端应用，运用nodejs技术搭建本地服务，达到驾考题库练习和视频资料演示功能。  <br />
 
-数据图表化自劢处理：针对 QQ 聊天软件，以 Nodejs 服务器的 express 作为后台框架， <br />
+数据图表化自动处理：针对 QQ 聊天软件，以 Nodejs 服务器的 express 作为后台框架， <br />
 
 Handlebars作页面模板引擎，用Python语言编写数据自劢化处理脚本，采用ECharts可视化前端框架生成图表， <br />
 
