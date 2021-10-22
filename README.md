@@ -1,9 +1,9 @@
 # 王子龙Web前端简历
-[点击更多](https://wangzilong1997.github.io/mine/)
+:star: [点击更多](https://wangzilong1997.github.io/mine/)
 - - -
 # 联系方式
 
-* 手机：15227111790
+* 电话：15227111790 
 * Email：1321787581@qq.com
 * QQ/微信号：1321787581
 
@@ -12,12 +12,16 @@
 # 个人信息
 
 * 男/1997
-* 本科/河北师范大学
-* 工作年限：实习
+
+* 本科/河北师范大学/软件学院
+
+* 工作年限：半年
+
 * Github：https://github.com/wangzilong1997
+
 * 期望职位：Web前端
 
-
+  
 
 # 工作经历
 
@@ -33,13 +37,13 @@ Handlebars作页面模板引擎，用Python语言编写数据自劢化处理脚�
 表再展示效果。  <br />
 
 [点击可以看部分项目介绍](https://github.com/wangzilong1997/The-Story-of-Data/tree/master/H5方向9组（数据故事）/数据故事)
- 
+
 
 ## 浩鲸云计算科技股份有限公司 （ 2019年9月 ~2020年2月 ）
 
-参与河北电信营销沙盘 app 优化开发项目，独立完成竞争信息收集、用户问题反馈的新加模块，优化开发了修改密码页面和上门营销拍照功能。 <br />
+>  参与河北电信营销沙盘 app 优化开发项目，独立完成竞争信息收集、用户问题反馈的新加模块，优化开发了修改密码页面和上门营销拍照功能。 <br />
 
-1、竞争信息收集模块由ionic开发框架创建，用angular创建JS框架，业务逻辑层由spring创建xml，Oracle作为数据库。完成区域竞争信息填写、展示（包括上传图片，利用后台公共方法实现）等功能的开发。 <br />
+1、竞争信息收集模块由ionic开发框架创建，用angular创建JS框架，业务逻辑层由Java spring创建xml，Oracle作为数据库。完成区域竞争信息填写、展示（包括上传图片，利用后台公共方法实现）等功能的开发。 <br />
 
 2、用户问题反馈模块包括模糊搜索问题、问题点赞、审核权限控制、提交问题，截图评星、
 审核问题等功能。 
@@ -52,15 +56,36 @@ Handlebars作页面模板引擎，用Python语言编写数据自劢化处理脚�
 
 ## 北京金贝叶软件科技有限公司 （2021年5月～2021年7月）
 
+> 参与贝贝企业管理应用部分模块事务开发
+
+1、使用react antd mobx 开发**会议申请、审批、退回** **会议室信息维护** **事业单位登记** 等模块
+
+## 宇动源(北京)信息技术有限公司（2021年7月～2021年10月）
+
+>  参与dsm数据服务平台前端部分模块开发，cmc内部通信平台功能开发，dip泛数据集成平台前端维护
+
+1、**dsm开发**： 自定义授权模块开发，typescript react dva 状态管理 antd 
+
+​	 **部分模块结构优化** ： 路由、布局layout、以及部分可复用组件封装
+
+​	 **对表格上移、下移、删除操作提取自定义hook**：实现表格上移、下移删除之后，发现还有另外两个地方需要用到，而且在这个应用之		中有很多地方需要，所以把这三个*操作逻辑*封装成了自定义hook，以供以后使用 :eyes: （但是有渲染性能的问题）
+
+​     **简单封装AceEditer**：解决react-ace 不能错误提示的问题
+
+2、**cmc开发**：营运商服务增加字段，vue2 
+
+3、**dip维护**： 定位修改bug，extJs
+
 # 技能清单
 
-以下均为我熟练使用的技能
+:open_file_folder: 以下均为我熟练使用的技能
+
 * 掌握CSS
 * 掌握HTML，JS   
-* Web开发：Python/Node
-* 前端框架：AngularJS/React
-* 数据库相关：MySQL/Oracle/PLSQL
-* 版本管理、文档和自动化部署工具：Git/Grunt/Webpack
+* Web开发：Python/NodeJs
+* 前端框架：React
+* 数据库相关：MySQL/Oracle
+* 版本管理、文档和自动化部署工具：Git/Grunt/Webpack/TypeScript
 * 云和开放平台：微信应用开发
 * 其他   
     + Untiy:  [做过简单的 2d demo，cocosjs也是](https://github.com/wangzilong1997/C--for-unity)
@@ -68,5 +93,5 @@ Handlebars作页面模板引擎，用Python语言编写数据自劢化处理脚�
 - - -
 
 # 致谢
-[更多关于我的](https://github.com/wangzilong1997/mine)
+:star2:[更多关于我的](https://github.com/wangzilong1997/mine)
 感谢您花时间阅读我的简历，非常期待能有机会和您共事。
